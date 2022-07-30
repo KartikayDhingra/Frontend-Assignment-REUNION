@@ -1,8 +1,8 @@
 # Frontend Assignment - REUNION
 
-###Technologies used - React.js and TailwindCSS
+### Technologies used - React.js and TailwindCSS
 
-####Filters
+#### Filters
 
 Location - I have data of 4 countries namely India, United States, Dubai, Europe
 
